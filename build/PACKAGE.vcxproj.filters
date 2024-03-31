@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\2024 FRC\Aimbot\build\CMakeFiles\473de33d21ab53dd9f904039d46d8dc4\PACKAGE_force.rule">
+    <CustomBuild Include="C:\2024 FRC\Aimbot\Asterea\build\CMakeFiles\e48228f90340d0fb92eede8b80aa11b4\PACKAGE_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{477F4961-5FE6-3499-BA85-5162D55ED043}</UniqueIdentifier>
+      <UniqueIdentifier>{DD0F45B8-EBF1-3540-A700-E913F2CAC6C9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

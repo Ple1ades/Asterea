@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\2024 FRC\Aimbot\main.cpp">
+    <ClCompile Include="C:\2024 FRC\Aimbot\Asterea\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\2024 FRC\Aimbot\Astraea.cpp">
+    <ClCompile Include="C:\2024 FRC\Aimbot\Asterea\Astraea.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\2024 FRC\Aimbot\lib\Quartic\quartic.cpp">
+    <ClCompile Include="C:\2024 FRC\Aimbot\Asterea\lib\Quartic\quartic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\2024 FRC\Aimbot\Astraea.h">
+    <ClInclude Include="C:\2024 FRC\Aimbot\Asterea\Astraea.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\2024 FRC\Aimbot\TaylorConstants.h">
+    <ClInclude Include="C:\2024 FRC\Aimbot\Asterea\TaylorConstants.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\2024 FRC\Aimbot\lib\Quartic\quartic.h">
+    <ClInclude Include="C:\2024 FRC\Aimbot\Asterea\lib\Quartic\quartic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\2024 FRC\Aimbot\CMakeLists.txt" />
+    <CustomBuild Include="C:\2024 FRC\Aimbot\Asterea\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{336CDAA1-7213-3CD3-89A8-17691471C49D}</UniqueIdentifier>
+      <UniqueIdentifier>{F9491A05-F935-31E1-ABB8-1A560F65EA88}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{53D18D9D-E110-37FE-AF2A-8C1418B1BFD0}</UniqueIdentifier>
+      <UniqueIdentifier>{408D8F0B-82A3-3370-9931-5F39419CC45F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
