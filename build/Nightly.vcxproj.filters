@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\2024 FRC\Aimbot\build\CMakeFiles\473de33d21ab53dd9f904039d46d8dc4\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\2024 FRC\Aimbot\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\2024 FRC\Aimbot\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{477F4961-5FE6-3499-BA85-5162D55ED043}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

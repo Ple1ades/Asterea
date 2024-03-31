@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\2024 FRC\Aimbot\build\CMakeFiles\473de33d21ab53dd9f904039d46d8dc4\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{477F4961-5FE6-3499-BA85-5162D55ED043}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
